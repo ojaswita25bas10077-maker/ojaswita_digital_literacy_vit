@@ -31,8 +31,11 @@ Studied UPI fraud as a cybercrime case and created a prevention checklist to pro
 Useful Links
 
 GitHub Profile: (https://github.com/ojaswita25bas10077-maker) 
-LinkedIn Profile: (https://www.linkedin.com/in/ojaswita-jaiswal-a115b43bb/)  
+
+LinkedIn Profile: (https://www.linkedin.com/in/ojaswita-jaiswal-a115b43bb/) 
+
 Kaggle Profile: (https://www.kaggle.com/ojaswitajaiswal)
+
 Google Form (Quiz): (https://docs.google.com/forms/d/e/1FAIpQLSfjvsjWY1C21ISn3luVTPtApFBJ0K_XwoKbGqBudDbyN0b9oA/viewform?usp=header) 
 
 This project helped me understand the importance of digital skills, professional communication, and cybersecurity awareness. It has prepared me to use digital tools effectively for academic and professional growth.
